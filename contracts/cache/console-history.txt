@@ -1,0 +1,4 @@
+console.log(ethers.utils.formatEther(balance));
+const balance = await ethers.provider.getBalance("0x2Dd74fc5EC17C1141fce3a29BFc8416ebd9407Ee");
+console.log(ethers.utils.formatEther(balance));
+const balance = await ethers.provider.getBalance("0x2Dd74fc5EC17C1141fce3a29BFc8416ebd9407Ee");
