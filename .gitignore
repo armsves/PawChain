@@ -3,6 +3,7 @@
 # dependencies
 /node_modules
 /artifacts
+/typechain-types
 /cache
 /.pnp
 .pnp.js
